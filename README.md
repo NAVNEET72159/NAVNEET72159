@@ -2,6 +2,6 @@
 
 Core JAVA Full Stack Developer. Passionate about Research in Robotics and Machine Learning.
 
-![image]([https://github.com/siyapandeyvsp/siyapandeyvsp/assets/85756788/8c181b23-677c-4d64-ac1d-03c184b5a3dd](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kyMmx1cnp6OHBjOXh4ZDY4NXc1NzM4dXA0MGtiM3VuMGIwcGswNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kyMmx1cnp6OHBjOXh4ZDY4NXc1NzM4dXA0MGtiM3VuMGIwcGswNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siyapandeyvsp&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
