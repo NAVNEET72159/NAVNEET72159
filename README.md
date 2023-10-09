@@ -23,4 +23,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV5MGZyZzRtdTgwZ2M0cjg2ejBmNGZiZDRlOHBmZjF5aWJnZm52cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navneet72159&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+---
+
+### :woman_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
