@@ -14,8 +14,10 @@
   </a>
 </div>
 
-### Hey there! I am Navneet Shandilya. 👋
-
-Core JAVA Full Stack Developer. Passionate about Research in Robotics and Machine Learning.
+<h1>
+  Hey there! I am Navneet Shandilya. 👋
+  Core JAVA Full Stack Developer. Passionate about Research in Robotics and Machine Learning.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navneet72159&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
