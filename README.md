@@ -26,7 +26,7 @@
 
 <div align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVNEET72159&langs_count=5&theme=tokyonight" alt="ovi" />
-  <img src = "https://github-readme-stats.vercel.app/api/?username=NAVNEET72159&count_private=true&theme=tokyonight&showicons=true"/>
+  <img src = "https://github-readme-stats.vercel.app/api/?username=NAVNEET72159&count_private=true&theme=tokyonight&showicons=true" alt="ovi"/>
 </div>
 
 ---
